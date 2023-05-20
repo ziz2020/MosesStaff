@@ -81,8 +81,12 @@ To get the Table
 </table>
 The function will return the Datatable
 
-
-
+To cancel all changes that you did not save when moving from one record to another
+<table>
+  <tr>
+    <th>Set CancelOnMove = True</th>
+  </tr>
+</table>
 
 
 
