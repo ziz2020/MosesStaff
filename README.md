@@ -66,8 +66,19 @@ Cancel the changes you made
   </tr>
 </table>
 
+To add a primary key through the tool automatically
+<table>
+  <tr>
+    <th>Set AutoPrimaryKey = True and AutoPrimaryKeyName = "Your_ID" </th>
+  </tr>
+</table>
 
-
+To get the Table
+<table>
+  <tr>
+    <th>StaffSqlTable1.GetTABLE()</th>
+  </tr>
+</table>
 
 
 
