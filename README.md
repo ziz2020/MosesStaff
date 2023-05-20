@@ -28,3 +28,50 @@ Compiler by FrameWork 4.8
 
 
 
+# commands to use
+
+To fill Yor DataSet use 
+<table>
+  <tr>
+    <th>StaffSqlTable1.Fill()</th>
+  </tr>
+</table>
+
+
+To Add New Row
+<table>
+  <tr>
+    <th>StaffSqlTable1.NewData()</th>
+  </tr>
+</table>
+
+To Save DataChanged
+<table>
+  <tr>
+    <th>StaffSqlTable1.Save()</th>
+  </tr>
+</table>
+
+To Delete Row
+<table>
+  <tr>
+    <th>StaffSqlTable1.Delete()</th>
+  </tr>
+</table>
+
+Cancel the changes you made
+<table>
+  <tr>
+    <th>StaffSqlTable1.Cancel()</th>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
