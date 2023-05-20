@@ -19,4 +19,6 @@ https://mega.nz/file/CwkFkQJK#9yD_iAME0wTGfxlAFmnNxoU8U2SEHk3Az-udvUGDn4g
 
 B: Once you drop the tool on the form, click on Connect, and the wizard will take care of adding what you need .
 
+<img src="https://i.pinimg.com/originals/d9/30/62/d93062d5db5055d0f521a1e8fc2f341a.jpg" />
+
 
