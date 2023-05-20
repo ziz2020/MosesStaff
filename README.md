@@ -15,6 +15,8 @@ kinds of ٍStaff
 
 A: Download the tool from the link
 
+https://mega.nz/file/CwkFkQJK#9yD_iAME0wTGfxlAFmnNxoU8U2SEHk3Az-udvUGDn4g
+
 B: Once you drop the tool on the form, click on Connect, and the wizard will take care of adding what you need .
 
 
