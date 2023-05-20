@@ -12,3 +12,9 @@ kinds of ٍStaff
 4: MosesSqLiteStaff for Sqlite
 
 5: MosesPosStaff for Posgres
+
+A: Download the tool from the link
+
+B: Once you drop the tool on the form, click on Connect, and the wizard will take care of adding what you need .
+
+
