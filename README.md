@@ -4,7 +4,11 @@ The Moses Staff tool is a tool for connecting to different databases on Visual S
 kinds of ٍStaff
 
 1: MosesSqlStaff for SqlServer
-1: MosesFBStaff for FireBird
-1: MosesOldStaff for Access
-1: MosesSqLiteStaff for Sqlite
-1: MosesPosStaff for Posgres
+
+2: MosesFBStaff for FireBird
+
+3: MosesOldStaff for Access
+
+4: MosesSqLiteStaff for Sqlite
+
+5: MosesPosStaff for Posgres
