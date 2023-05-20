@@ -79,7 +79,7 @@ To get the Table
     <th>StaffSqlTable1.GetTABLE()</th>
   </tr>
 </table>
-
+The function will return the Datatable
 
 
 
