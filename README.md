@@ -13,9 +13,6 @@ kinds of ٍStaff
 
 5: MosesPosStaff for Posgres
 
-A: Download the tool from the link
-
-<a href="https://mega.nz/file/CwkFkQJK#9yD_iAME0wTGfxlAFmnNxoU8U2SEHk3Az-udvUGDn4g">Download MosesSqlStaff</a>
 
 
 B: Once you drop the tool on the form, click on Connect, and the wizard will take care of adding what you need .
